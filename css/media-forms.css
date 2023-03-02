@@ -1,0 +1,3861 @@
+#mainslider .slick-prev {
+    background-position: -254px 0;
+}
+
+#mainslider .slick-next {
+    background-position: -282px 0;
+}
+
+.rupeesicon {
+    width: 11px;
+    height: 18px;
+    background-position: -129px -79px;
+}
+
+.driveicon {
+    width: 19px;
+    height: 18px;
+    background-position: -189px -1px;
+}
+
+.contacticon {
+    width: 18px;
+    height: 18px;
+    background-position: -214px 0;
+}
+
+.locateicon {
+    width: 13px;
+    height: 18px;
+    background-position: -238px 0;
+}
+
+.redcross {
+    background-position: -136px -108px;
+    width: 24px;
+    height: 24px;
+}
+
+.greenright {
+    background-position: -109px -108px;
+    width: 24px;
+    height: 24px;
+}
+
+/*New CSS---- used car */
+.eye {
+    background-position: -3px -248px;
+    width: 54px;
+    height: 36px;
+    margin: 30% 40%;
+}
+
+.fuel {
+    background-position: -139px -251px;
+    width: 90px;
+    height: 90px;
+}
+
+.year {
+    background-position: -236px -263px;
+    width: 74px;
+    height: 74px;
+}
+
+.km {
+    background-position: -316px -262px;
+    width: 76px;
+    height: 76px;
+}
+
+.city {
+    background-position: -74px -270px;
+    width: 64px;
+    height: 64px;
+}
+
+.kms {
+    background-position: -116px -351px;
+}
+
+.color {
+    background-position: -161px -351px;
+}
+
+.fuels {
+    background-position: -206px -351px;
+}
+
+.insurnce {
+    background-position: -251px -351px;
+}
+
+.owner {
+    background-position: -296px -351px;
+}
+
+.insutype {
+    background-position: -341px -351px;
+}
+
+@media screen and (min-width:359px) {
+    .tabdetail .owl-buttons {
+        top: 189px;
+    }
+
+    /*-----Online Services -------*/
+    #online .online_radio .remark,
+    #online .online_input textarea {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    #online .online_area {
+        width: 100%;
+    }
+
+    /*New used Car*/
+    .nucarblock {
+        height: 248px;
+    }
+
+    /*Used Car Detail*/
+    .ucd-media li a.imgsec {
+        height: 238px;
+    }
+
+    /*New Book Service*/
+    .nbook-mobitab .tabname {
+        font-size: 14px;
+    }
+
+    .nformwrap .marksfields {
+        text-align: center;
+    }
+}
+
+@media screen and (min-width:479px) {
+
+    /*Near Cities */
+    .nearcity_citylist {
+        width: 45%;
+        margin-right: 20px;
+    }
+
+    .nearcity_locateout .nearcity_citylist {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    /*Click to Call*/
+    .callpopwrap {
+        max-height: 200px;
+        min-height: 200px;
+    }
+
+
+    .feature li a {
+        padding: 23px 0 0;
+    }
+
+    /*FTC*/
+    #leadpopup_point {
+        width: 400px !important;
+    }
+
+    #tab3 .picturepage img {
+        width: 330px !important;
+    }
+
+    /*gallery*/
+    .gallery li {
+        margin: -1px 1px 0 0;
+        max-width: none;
+        width: 48%;
+    }
+
+    /*select a car section*/
+    #select_car .carinfo li,
+    .carmodel .carinfo li {
+        width: 150px;
+    }
+
+    .metericon,
+    .carmodel .metericon {
+        margin-top: 0;
+    }
+
+    #select_car .carinfo li:nth-child(2),
+    .carmodel .carinfo li:nth-child(2) {
+        border-right: 1px solid #d3d6d7;
+    }
+
+    /*Finance*/
+    .carfinence .doctabs li {
+        width: 30%;
+    }
+
+    .carfinence .doctabs li a {
+        width: 100%;
+    }
+
+    /*Model Mileage*/
+    .carmodel .mileagedata .carinfo li:nth-child(2) {
+        border-right: none;
+    }
+
+    .colorsliderbntmain {
+        width: 296px;
+    }
+
+    .tabdetail .owl-theme .owl-controls .owl-buttons div.owl-prev {
+        bottom: 18px;
+    }
+
+    .tabdetail .owl-theme .owl-controls .owl-buttons div.owl-next {
+        bottom: 18px;
+    }
+
+    .searchpanel .usedvalue {
+        width: 125px;
+    }
+
+    .searchpanel .select-button {
+        float: left;
+        margin: 25px auto 0;
+    }
+
+    /*New Used Car*/
+    .usedsearchwrap li {
+        width: 100%;
+    }
+
+    .usedsearchwrap li.onecolumn {
+        width: 100%
+    }
+
+    .usedsearchwrap ul {
+        margin: 20px auto 0;
+        width: 425px;
+    }
+
+    .nulistingbtn .nubtn {
+        float: left;
+        margin-left: 20px;
+    }
+
+    .nucarblock {
+        height: 337px;
+    }
+
+    /*Used car Detail*/
+    .numoredetail .rowtitle {
+        display: inline-block;
+        margin-bottom: 0;
+        margin-right: 5px;
+    }
+
+    .usedcardetail #picturetab {
+        overflow: hidden;
+    }
+
+    .usedcardetail .gscr_lSAction {
+        position: absolute;
+        top: 30%;
+        width: 100%;
+    }
+
+    .usedcardetail .right .detailprice {
+        float: left;
+    }
+
+    .usedcardetail #newusedslide {
+        height: 297px !important;
+    }
+
+    .usedcardetail .gscr_carousel img {
+        max-height: 297px;
+        width: auto;
+    }
+
+    .ucd-media li a.imgsec {
+        height: 328px;
+    }
+
+    /* New CSS------used car ---*/
+    .usedcar .carbox {
+        margin: 0 auto;
+    }
+
+    /*New Outlet Page*/
+    .mobi-namelocate {
+        max-width: 345px;
+    }
+
+    /*New Outlet*/
+    .nout-mobilink .nout-btn2 {
+        padding: 12px 20px;
+    }
+
+    .nout-mobilink a {
+        margin-right: 10px;
+    }
+
+    .nout-listlink {
+        width: 85px;
+    }
+
+    .mobirelist .writedes {
+        width: 80%;
+    }
+
+    .mobirelist .writedes .name {
+        float: left;
+    }
+
+    .mobirelist .writedes .mobiout-star {
+        float: right;
+        margin-top: 0;
+    }
+
+    /*New Contact Page*/
+    #show_contactus .popupwrap {
+        top: 10%;
+    }
+
+    /*New Special Offer*/
+    .soffer_top h3 a {
+        width: 440px;
+    }
+}
+
+@media screen and (min-width:559px) {
+
+    /*New used Car*/
+    .nucarblock {
+        height: 396px;
+    }
+
+    .ucd-media li {
+        margin-right: 10px;
+        width: 48%;
+    }
+
+    .ucd-media {
+        padding-top: 15px;
+    }
+
+    .ucd-media li:nth-of-type(even) {
+        margin-right: 0;
+    }
+
+    .ucd-media li a.imgsec {
+        height: 186px;
+    }
+}
+
+@media screen and (min-width:569px) {
+    .popupcontain.selldetail {
+        width: 540px;
+    }
+
+    /*popup*/
+    #gsp_popup .popupwrap {
+        max-width: 600px;
+    }
+
+    .tabdetail .owl-buttons {
+        top: 200px;
+    }
+
+    .searchpanel .usedvalue {
+        width: 185px;
+    }
+
+}
+
+@media screen and (min-width:590px) {
+
+    /*CLick to Call*/
+    .callparenttab {
+        left: 220px;
+    }
+
+    /*Video Banner*/
+    .slidemsg {
+        max-height: 160px;
+    }
+
+    /*New Used Car*/
+    .nucarblock {
+        height: 150px;
+        width: 200px;
+    }
+
+    .nudes {
+        float: left;
+        margin-left: 10px;
+        margin-top: 0;
+        text-align: left;
+        width: 310px;
+    }
+
+    .newusedcartab .sort {
+        display: inline-block;
+        float: right;
+        margin: 0;
+        width: 190px;
+    }
+
+    /*Used Car Detail*/
+    .numoredetail .fealist {
+        width: 49%;
+    }
+
+    .contlisting {
+        width: 49%;
+        float: left;
+    }
+
+    .contlisting div {
+        width: 60%;
+    }
+
+    .contlisting div:last-child {
+        width: auto;
+    }
+
+    /*New Special Offer*/
+    .soffer_top h3 a {
+        width: 560px;
+    }
+}
+
+
+@media screen and (min-width:639px) {
+
+    #owl-demo .item img {
+        height: auto;
+        max-width: 100%;
+        width: 100%;
+    }
+
+    /*select a car section*/
+    .map {
+        padding: 70px 0;
+    }
+
+    .map .cityname {
+        font-size: 32px;
+    }
+
+    .top {
+        bottom: 4.8em;
+    }
+
+    #select_car .carinfo li,
+    .carmodel .carinfo li {
+        width: 180px;
+    }
+
+    /*gallery*/
+    .gallery li {
+        margin: -1px 0 0;
+    }
+
+    /*AccessoriesDetail*/
+    #accdetail .accimgholder {
+        width: 489px
+    }
+
+    /*sitemap*/
+    .sitemap .column {
+        display: inline-block;
+    }
+
+    /*-----Online Services -------*/
+    #online .online_input {
+        width: 100%;
+    }
+
+    #online .online_radio.textareaonline {
+        width: 100%
+    }
+
+    /*--------outlets page----------*/
+    .outlet .shoplocation {
+        width: 100%;
+    }
+
+    .outlet .shoppanel .contactpanel li {
+        display: inline-block;
+        margin: 10px auto !important;
+        width: 290px;
+        vertical-align: top;
+    }
+
+    .outlet .select-button {
+        margin-right: 17px;
+        width: auto;
+        display: inline-block;
+    }
+
+    .outlet .topbtn {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    .outlet .shoppanel .shoplocation h3,
+    .outlet .shoppanel .contactpanel h3 {
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    /*Offers*/
+    .tabbutton li {
+        max-width: 130px;
+        margin: 0 5px;
+        padding: 10px 0
+    }
+
+    .insurancewrap .tabbutton li {
+        max-width: 158px;
+        width: 158px
+    }
+
+    /*EventGallery*/
+    .eventwrap .gallery {
+        width: 472px
+    }
+
+    /*Model tab*/
+    .tabdetail .owl-theme .owl-controls .owl-buttons div.owl-prev {
+        left: 0px;
+    }
+
+    .tabdetail .owl-theme .owl-controls .owl-buttons div.owl-next {
+        right: 0px;
+    }
+
+    /*variant page*/
+    .varientleft,
+    .variantright {
+        vertical-align: top;
+        display: inline-block;
+        margin: 0 4px;
+        width: 48%;
+        max-width: none;
+    }
+
+    /*Used Car Detail*/
+    .detailfeature {
+        width: 555px;
+        height: 100px;
+        padding: 30px 15px 10px;
+    }
+
+    .detailfeature li {
+        border-right: solid 1px #e3e3e3;
+        padding-right: 15px;
+        margin-right: 11px;
+        padding-bottom: 0;
+        margin-bottom: 0;
+    }
+
+    .detailfeature li:last-child {
+        border-right: none;
+        margin-right: 0;
+        padding-right: 0;
+    }
+
+    /*Popup Phone No*/
+    .phonepop {
+        margin-left: -250px !important;
+        width: 500px !important;
+    }
+
+    .Phoneno {
+        margin: 0 auto;
+        width: 430px;
+    }
+
+    .Phoneno li {
+        text-align: left;
+    }
+
+    .Phoneno ul {
+        border-right: 1px solid #d1d1d1;
+        float: left;
+        margin-right: 30px;
+        width: 190px;
+    }
+
+    .Phoneno ul.bordernone {
+        border-right: none;
+        margin-right: 0px;
+    }
+
+    /*Used Car Detail*/
+    .ucd-media li a.imgsec {
+        height: 215px;
+    }
+
+    /*New CSS-----used cars -----*/
+    .usedcar .carbox {
+        float: left;
+        margin: 0 18px 20px !important;
+        width: 249px;
+    }
+
+    .loading {
+        padding: 0;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .usedcar .used_cars_result>p {
+        padding: 0 0 0 20px;
+        width: auto;
+    }
+}
+
+@media screen and (min-width:767px) {
+    .newifrmview360img {
+        width: 600px;
+        height: 500px;
+    }
+
+    .tabdetail .gscr_lSPrev {
+        left: 0 !important;
+    }
+
+    .tabdetail .gscr_lSNext {
+        right: 0 !important
+    }
+
+    .modelpictures .modeltab .gscr_lSAction {
+        position: absolute;
+        margin-top: 6px;
+    }
+
+    .popupcontain.selldetail {
+        width: 600px;
+    }
+
+    #gallery-container {
+        width: 600px;
+    }
+
+    .feature li a {
+        padding: 23px 0 21px;
+    }
+
+    .tabdetail .owl-buttons {
+        top: 220px;
+    }
+
+    /*Popup OTP*/
+    .otppopup.popupwrap {
+        width: 600px;
+        /*margin: 0 0 0 -200px !important;*/
+        overflow: hidden;
+    }
+
+    .otppopup .popupbutton {
+        float: none;
+        margin: 0;
+        text-align: center;
+    }
+
+    .otppopup.popupwrap .popupinner {
+        padding: 10px 10px 5px;
+    }
+
+    .otppopup .success {
+        margin-bottom: 0;
+    }
+
+
+    /*Header CSS*/
+    .headertop .fb,
+    .headertop .twitter,
+    .headertop .google_plus {
+        display: inline-block;
+    }
+
+    .logo img {
+        height: auto;
+    }
+
+    .car-model-selection {
+        margin-top: 45px;
+    }
+
+    header .offers {
+        display: block;
+    }
+
+    header .headertop .mobdots {
+        display: none;
+    }
+
+    header .headertop {
+        padding: 0;
+        position: absolute;
+        top: 0;
+    }
+
+    header .headermain {
+        margin-top: 39px;
+    }
+
+    header .mobitoplink {
+        padding-top: 0;
+        display: inline-block;
+    }
+
+    header .mobitoplink a {
+        height: 39px;
+        line-height: 39px;
+        font-size: 14px;
+        border-right: 1px solid #252e35;
+        float: left;
+        padding-right: 10px;
+    }
+
+    header .mobitoplink a:last-child {
+        border-right: none;
+        padding-right: 0;
+        margin-right: 0;
+    }
+
+    header .phno {
+        display: inline-block;
+        max-width: 380px;
+        padding-right: 10px;
+        width: auto;
+    }
+
+    header .headertop .toplink li {
+        float: left;
+        padding: 0 20px;
+        border-right: solid 1px #252e35;
+    }
+
+    header .headertop .toplink a {
+        border: none;
+        color: rgba(255, 255, 255, .8);
+        padding: 0;
+        line-height: 39px;
+    }
+
+    header .headertop .toplink .offerdir {
+        display: none;
+    }
+
+    #mainslider #toplsidermain .gscr_lSPager {
+        bottom: 15px;
+        right: 12px;
+    }
+
+    header .headertop .toplink::before {
+        display: none;
+    }
+
+    .trans .sprite {
+        transition: all 0.4s ease-in-out 0s;
+        -webkit-transition: all 0.4s ease-in-out 0s;
+        -moz-transition: all 0.4s ease-in-out 0s;
+        -ms-transition: all 0.4s ease-in-out 0s;
+        -o-transition: all 0.4s ease-in-out 0s;
+    }
+
+    .rupeesicon {
+        width: 18px;
+        height: 29px;
+        background-position: -162px -1px;
+    }
+
+    .driveicon {
+        width: 30px;
+        height: 28px;
+        background-position: -150px -78px;
+    }
+
+    .contacticon {
+        width: 28px;
+        height: 28px;
+        background-position: -189px -78px;
+    }
+
+    .locateicon {
+        width: 20px;
+        height: 28px;
+        background-position: -224px -78px;
+    }
+
+    .feature li {
+        font-size: 16px;
+        height: 100px;
+    }
+
+    .feature div.sprite {
+        margin-bottom: 10px;
+    }
+
+    /*title*/
+    .titlecont h1 {
+        font-size: 40px
+    }
+
+    .titlecont h1:after {
+        vertical-align: 10px
+    }
+
+    .titlecont h1:before {
+        vertical-align: 10px
+    }
+
+    .titlecont.titleblock h1:after {
+        width: 70px;
+    }
+
+    .titlecont.titleblock h1:before {
+        width: 70px;
+    }
+
+    /*select a car section*/
+    #select_car .car360img h2 {
+        text-indent: -100px;
+    }
+
+    #select_car .carinfo .value {
+        font-size: 30px;
+    }
+
+    .pccar {
+        display: block;
+        margin: 0 auto 30px;
+    }
+
+    .mobicar {
+        display: none;
+    }
+
+    /*event gallery CSS*/
+    .gallery h2 {
+        font-size: 30px;
+    }
+
+    .hitem .text {
+        font-size: 14px;
+    }
+
+    .gallery li {
+        margin: -1px 1px 0 0;
+    }
+
+    /*New Car*/
+    .newcarwrap .cars li {
+        margin: 0 40px 50px 0;
+    }
+
+    .newcarwrap .cars ul {
+        width: 640px;
+    }
+
+    /*accessories */
+    .accestable {
+        margin-top: 50px;
+        padding: 0 30px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .accestable .select-wrapper {
+        float: left;
+        margin: 0 10px 20px auto;
+        width: 225px;
+    }
+
+    /*Career*/
+    .careertable {
+        margin-top: 20px;
+        padding: 0 30px;
+    }
+
+    .fields,
+    .fields2 {
+        width: 252px;
+        margin-right: 20px;
+        display: inline-block;
+    }
+
+    /*sitemap*/
+    .sitemap .column {
+        margin: 0 40px;
+    }
+
+    /*-- Sell car --*/
+    #sell_car .radioboxspace {
+        width: 245px;
+        margin: 0 20px 0 0 !important;
+        display: inline-block;
+        text-align: left;
+    }
+
+    #sell_car .left_select {
+        padding: 0;
+    }
+
+    /*popup*/
+    .popupwrap .popuptitle {
+        font-size: 32px;
+        padding-left: 35px;
+    }
+
+    .popupwrap .inputvalue {
+        margin: 0 20px 17px 0;
+    }
+
+    .popupwrap .select-wrapper,
+    .popupwrap .select-wrapper select,
+    .popupwrap .inputvalue {
+        width: 260px;
+    }
+
+    .popupwrap .popupinner {
+        padding: 20px 20px 5px;
+    }
+
+    .selldetail .popupinner,
+    .onroadprice .popupinner {
+        padding-bottom: 37px;
+    }
+
+    .popupwrap .marginrnone {
+        margin-right: 0px;
+    }
+
+    .popupwrap .selectcar,
+    .popupwrap .selectcar .select-wrapper,
+    .popupwrap .selectcar .select-wrapper select {
+        width: 100%;
+    }
+
+    .popupwrap .fullwidth {
+        width: 100%;
+    }
+
+    .popupwrap .leftcolumn {
+        width: 228px;
+        padding: 0 0 0 15px;
+        font-size: 14px;
+    }
+
+    .popupwrap .rightcolumn {
+        margin-left: 59px;
+        width: 217px;
+        font-size: 18px;
+    }
+
+    .popupwrap .manda {
+        font-family: "robotoregular";
+        float: left;
+        padding: 17px 0 0 32px;
+    }
+
+    .popupwrap .close {
+        right: 16px;
+        top: 20px;
+    }
+
+    /*-----Popup-Offer-----*/
+    .offerpopup .saveupto {
+        text-align: left;
+        font-size: 24px;
+        line-height: 1;
+    }
+
+    .offerpopup .offerimg {
+        width: 233px;
+        text-align: left;
+    }
+
+    .offerpopup .description {
+        float: left;
+        margin-left: 30px;
+    }
+
+    .offerpopup p {
+        padding-bottom: 0;
+    }
+
+    /*Popup Get on road price*/
+    .popupwrap .selectcar .select-wrapper {
+        background-position: 95% 50%;
+    }
+
+    .getonroad .titlepopup {
+        padding-top: 16px;
+    }
+
+    .getonroad .marbottom {
+        margin-bottom: 15px;
+    }
+
+    /*popup-Book a test drive*/
+    .popbooktestdrive .popupbutton {
+        float: right;
+        text-align: center;
+        margin: 0 40px 0 0;
+    }
+
+    /*popup THanks You*/
+    .thankyou {
+        top: 185px;
+    }
+
+    /*-----Online Services -------*/
+    #online .online_input textarea {
+        height: 203px;
+        border: #c7c7c7 1px solid;
+    }
+
+    #online .online_radio .remark,
+    #online .online_input textarea {
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    #online label {
+        width: auto;
+    }
+
+    /*-------outlets page-----------*/
+
+    .outlet .select-button {
+        margin-top: 20px;
+    }
+
+    .outlet .shoplocation {
+        width: 280px;
+    }
+
+    .outlet .shoppanel .contactpanel li.contact {
+        margin-bottom: 38px;
+    }
+
+    /*EventGallery*/
+    .eventwrap .gallery {
+        width: 708px
+    }
+
+    /*Finance CSS */
+    .carfinence .financetab li a {
+        font-size: 13px;
+        padding: 6px 24px;
+    }
+
+    .carfinence .doctabresult li {
+        float: left;
+        font-size: 12px;
+        margin-left: 20px;
+        margin-right: 10px;
+        width: 42%;
+    }
+
+    .carfinence .calcuresult form {
+        float: left;
+        margin: 20px 43px 0 0;
+    }
+
+    .carfinence .financeinquiry .financecontain {
+        margin: 0 35px 0 85px;
+    }
+
+    .contactinform li {
+        width: 244px;
+        margin-right: 18px;
+    }
+
+    .carfinence .comments {
+        width: 502px;
+    }
+
+    .carfinence .left {
+        margin: 0px auto;
+        width: 70%;
+        float: none;
+    }
+
+    .carfinence .right {
+        float: none;
+        margin: 0px auto;
+        width: 70%;
+    }
+
+    /*-----------Model page tabbing start here--------*/
+    .cd-tabs::after {
+        display: none;
+    }
+
+    /*model page overview tab*/
+
+    .tabdetail {
+        width: 500px;
+        margin: 0 auto;
+    }
+
+    #sync1,
+    #sync3 {
+        width: 500px;
+        margin: 0px auto;
+        position: relative;
+    }
+
+    #sync2,
+    #sync4 {
+        width: 100%;
+    }
+
+    .colorsliderbntmain {
+        width: 444px;
+        margin: 8px auto
+    }
+
+    table .no.sprite,
+    table .yes.sprite {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .carmodel .rwd-table tr th:first-child,
+    .carmodel .rwd-table tr td:first-child {
+        text-align: left;
+    }
+
+    .carmodel .rwd-table th,
+    .carmodel .rwd-table td {
+        text-align: center;
+    }
+
+    .carmodel .mileagedata .rwd-table th,
+    .carmodel .mileagedata .rwd-table td {
+        margin: 0.5em 1em;
+    }
+
+    .carmodel .mileagedata .rwd-table td {
+        padding: 0.7em 1.2em !important;
+    }
+
+    .carmodel table button {
+        width: 110px;
+        font-size: 11px;
+    }
+
+    /*variant page*/
+    .varientleft,
+    .variantright {
+        margin: 0 5px;
+    }
+
+    .variantpage .cd-tabs-navigation {
+        width: 700px;
+    }
+
+    .variantpage .cd-tabs-navigation a {
+        width: 99px;
+    }
+
+    #gsp_popup {
+        height: inherit !important;
+        overflow: initial !important;
+        position: absolute !important;
+    }
+
+    /*Phone Popup*/
+    .phonepop {
+        top: 30%;
+    }
+
+    /*New Used Car*/
+    .nudes {
+        width: 400px;
+    }
+
+    /*Used Car Detail*/
+    .ucd-media li a.imgsec {
+        height: 261px;
+    }
+}
+
+@media screen and (min-width:960px) {
+
+    /*Accessoreis Detail*/
+    #accdetail .accimgholder {
+        float: left;
+        margin: 0;
+        text-align: left
+    }
+
+    #accdetail .acccont {
+        width: 420px;
+        margin: 0 0 0 45px;
+        float: left;
+        text-align: left
+    }
+
+    /*--------Model page tabbing start here-----------*/
+    .cd-tabs-content {
+        min-height: 0;
+        height: auto !important;
+    }
+
+    .cd-tabs-content li p {
+        font-size: 16px;
+        font-size: 1rem;
+    }
+
+    #leadpopup_point.feelpopup .description p {
+        font-size: 12px !important;
+    }
+
+    .cd-tabs nav {
+        overflow: hidden;
+    }
+
+    .cd-tabs-navigation {
+        width: auto;
+        float: none;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width:1007px) {
+    .mobi-banner {
+        display: none !important;
+    }
+
+    .desk-banner {
+        display: block !important;
+    }
+
+    .topslider {
+        min-height: auto;
+    }
+
+    .pgminheight {
+        min-height: 700px;
+    }
+
+    .aboutinput .fields,
+    .aboutinput .fields2 {
+        float: none;
+        vertical-align: top;
+        width: 263px;
+    }
+
+    /*New Price Page*/
+    .NewPricepgwrap {
+        display: block;
+    }
+
+    .newpricewrapmobi {
+        display: none;
+    }
+
+    .newprice_citydrop {
+        width: 130px;
+    }
+
+    .overviewright .newprice_citydrop {
+        width: 220px;
+    }
+
+    .newprice_citydrop input[type="text"] {
+        padding-left: 5px;
+    }
+
+    .nearcity_locateout .nearcity_allcity {
+        width: 85%;
+        padding-top: 10px;
+    }
+
+    .nearcity_locateout .nearcity_allcity a {
+        padding-right: 35px;
+        margin-right: 35px;
+    }
+
+    /*Near Cities */
+    .nearcity_citieswrap {
+        padding: 20px;
+        width: 100%;
+        max-width: 1200px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .nearcity_citylist {
+        display: inline-block;
+        margin-bottom: 0;
+        border-bottom: none;
+        width: auto;
+        position: relative;
+        margin-right: 20px;
+        padding-right: 20px;
+    }
+
+    .nearcity_citylist:after {
+        background: #bcbcbc;
+        content: "";
+        height: 20px;
+        position: absolute;
+        right: 0;
+        top: 20px;
+        width: 1px;
+    }
+
+    .nearcity_citylist:last-child:after {
+        display: none;
+    }
+
+    .nearcity_citylist:last-child {
+        margin-right: 0;
+        padding-right: 0;
+    }
+
+    .nearcity_morebtn {
+        float: right;
+    }
+
+    .nearcity_locateout .nearcity_citylist {
+        width: 100%;
+        border-bottom: solid 1px #ccc;
+    }
+
+    /*Click To Call*/
+    .callwrap {
+        display: none;
+    }
+
+    /*New Footer*/
+    footer {
+        background: #1b232a;
+    }
+
+    footer .copyright {
+        padding-bottom: 6px;
+        padding-top: 10px;
+    }
+
+    .newftr .newftrlinkdesktop {
+        display: inline-block;
+    }
+
+    .newftrmobi {
+        display: none;
+    }
+
+    /* .copyright { border-top: 1px solid #383838;} */
+    .newftr {
+        background: #2f3942;
+        padding: 25px 0;
+    }
+
+    .ftrgirnarlink a {
+        color: #fff;
+    }
+
+    .ftrgirnarlink a:focus,
+    .ftrgirnarlink a:hover {
+        color: rgba(255, 255, 255, 0.4);
+    }
+
+    .copyright {
+        padding-top: 10px;
+        padding-bottom: 6px;
+    }
+
+    .copyright .ftrlink2 {
+        display: inline-block;
+        float: left;
+    }
+
+    .copyright .ftrlink2 li {
+        float: left;
+        border-right: solid 1px #555555;
+        line-height: 1;
+        margin-right: 5px;
+        padding-right: 5px;
+    }
+
+    .copyright .ftrlink2 li:last-child {
+        border-right: none;
+        margin-right: 0;
+        padding-right: 0;
+    }
+
+    .copyright .ftrlink2 li a {
+        color: rgba(255, 255, 255, 0.4);
+        font-size: 12px;
+    }
+
+    .developed-by,
+    .allright {
+        font-size: 12px;
+        color: rgba(255, 255, 255, 0.4);
+    }
+
+    .copyright .ftrlink2 li a:hover {
+        color: #fff;
+    }
+
+    .allright,
+    .developed-by {
+        float: right;
+        margin-bottom: 0;
+    }
+
+    .developed-by {
+        padding-bottom: 0;
+        margin-right: 6px;
+    }
+
+    /*Video Banner*/
+    .homeslidecontain {
+        top: 25px;
+    }
+
+    .slidevideo {
+        height: 280px;
+        width: 600px;
+    }
+
+    .slidemsg {
+        background-color: transparent;
+        display: inline-block;
+        font-size: 20px;
+        max-height: 220px;
+        position: static;
+        width: 360px;
+    }
+
+    .slidemsg span {
+        max-height: 203px;
+        font-size: 18px;
+        line-height: 1.3;
+    }
+
+
+    .field-career-resume .help-block {
+        bottom: -20px;
+    }
+
+    #gallery-popup #galler_cr {
+        height: 380px !important
+    }
+
+    section.carmodel {
+        min-height: 700px;
+    }
+
+    #mainslider .gscr_lSAction {
+        display: block !important;
+    }
+
+    .accimg {
+        width: 140px;
+        text-align: center !important;
+    }
+
+
+
+    .offershow {
+        bottom: 50px;
+        left: 35px;
+        margin-top: 0;
+        position: absolute;
+        width: auto;
+    }
+
+    .titlecont h1:before,
+    .titlecont h2:before {
+        display: inline-block
+    }
+
+    .titlecont h1:after,
+    .titlecont h2:after {
+        display: inline-block
+    }
+
+
+
+    .videopg iframe {
+        margin-right: 15px;
+        width: 48%;
+    }
+
+    /*FTC*/
+    #leadpopup_point {
+        width: 550px !important;
+        height: auto !important;
+        max-height: 290px !important;
+        left: 300px;
+    }
+
+    #leadpopup_point .popupimg {
+        max-height: none;
+        overflow-y: unset;
+    }
+
+    #leadpopup_point.feelpopup .description {
+        max-height: 236px;
+        overflow-y: auto;
+        padding: 0 15px 0 0;
+    }
+
+    #leadpopup_point.feelpopup img {
+        float: left;
+        margin: 0 15px 0 0;
+    }
+
+    /*Header CSS*/
+
+    #menu {
+        display: inline-block;
+        float: right;
+        position: relative;
+        width: auto;
+    }
+
+    #menu .main .menu_aberto {
+        border: medium none;
+        box-shadow: none;
+        float: right;
+        position: relative;
+        top: 0 !important;
+        width: auto;
+    }
+
+    #menu .main {
+        /* font-family: 'robotomedium'; */
+        font-size: 14px;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    #menu .main ul {
+        position: static;
+        width: auto;
+        display: block;
+    }
+
+    #menu .main li {
+        float: left;
+        position: relative;
+        padding: 0;
+        border-bottom: 0;
+        text-align: center;
+        transition: all 0.4s ease-in-out 0s;
+        -webkit-transition: all 0.4s ease-in-out 0s;
+        -moz-transition: all 0.4s ease-in-out 0s;
+        -ms-transition: all 0.4s ease-in-out 0s;
+        -o-transition: all 0.4s ease-in-out 0s;
+    }
+
+    #menu .main .submenu.pcnavactive {
+        display: none;
+    }
+
+    #menu .main .submenu-onclick li:last-child {
+        border-radius: 0 0 2px 2px;
+    }
+
+    #menu .main li.homeicon {
+        padding: 0;
+        text-align: center;
+        width: 74px;
+    }
+
+    #menu .main li:last-child a {
+        border-right: 0;
+    }
+
+    #menu .main li:hover,
+    #menu .main li.active {
+        background: #ececec;
+    }
+
+    #menu .main li.active .menuhover {
+        display: block
+    }
+
+    #menu .main li a {
+        display: inline-block;
+        line-height: 80px;
+        padding: 0 17px;
+        text-decoration: none;
+    }
+
+    #menu .main .submenu li a {
+        line-height: 37px;
+        padding: 2px 10px;
+        text-align: left;
+    }
+
+    #menu .main .submenu li:last-child a {
+        width: auto;
+        max-width: none;
+    }
+
+    #menu .main .submenu li,
+    #menu .main .submenu li a {
+        text-indent: 0;
+    }
+
+    #menu .main ul {
+        float: left;
+        margin-top: 0px;
+    }
+
+    #menu .main .submenu {
+        border-radius: 2px;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.36);
+        overflow: hidden;
+        width: 190px;
+        position: absolute;
+    }
+
+    #menu .main .submenu::before {
+        content: "";
+        height: 4px;
+        left: 0;
+        margin: auto;
+        position: absolute;
+        right: 0;
+        width: 100%;
+        z-index: 1;
+    }
+
+    #menu .main .iconblock {
+        float: right;
+        margin-top: 15px
+    }
+
+    .more .submenu-onclick {
+        top: 83%;
+        border-radius: 3px;
+        background-color: #fff;
+        border: 1px solid #ccc !important;
+        box-shadow: 0 1px 5px rgba(0, 0, 0, 0.36);
+        display: none;
+        font-family: "robotoregular";
+        right: 3% !important;
+        margin-top: -11px;
+        padding: 0;
+        position: absolute !important;
+        width: 220px !important;
+    }
+
+    .more .submenu-onclick li {
+        background-color: #fff !important;
+        width: 100%;
+        text-align: left !important;
+    }
+
+    .more .submenu-onclick li a {
+        text-align: left !important;
+        color: #231f20;
+        font-size: 14px;
+        line-height: 28px !important;
+        max-width: none !important;
+        padding: 13px 22px !important;
+        text-align: left;
+        width: 80% !important;
+    }
+
+    .more .submenu-onclick::before {
+        background-image: url("../image/sprite.png");
+        background-position: -104px -85px;
+        content: "";
+        height: 9px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        top: -9px;
+        width: 18px;
+    }
+
+    .menuicon,
+    #menu .blank,
+    .burger-menu {
+        display: none
+    }
+
+    #mainslider #toplsidermain .gscr_lSPager {
+        right: 130px
+    }
+
+    #mainslider .gscr_outerwrapper {
+        position: relative
+    }
+
+    #mainslider .gscr_outerwrapper:after {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100px;
+        z-index: 9;
+        height: 100%
+    }
+
+    #mainslider .gscr_outerwrapper:before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100px;
+        z-index: 9;
+        height: 100%
+    }
+
+    header .logo {
+        display: inline-block;
+        width: auto;
+    }
+
+    header .moredrop {
+        left: -108px;
+    }
+
+    header .headermain {
+        width: 100%;
+        height: 80px;
+    }
+
+    header .mobitoplink a {
+        font-size: 14px;
+    }
+
+    #mainslider #toplsidermain .gscr_lSPager {
+        bottom: 40px;
+        right: 127px;
+    }
+
+    #menu .main .menu_aberto::before {
+        display: none;
+    }
+
+    header .headertop .toplink a:hover {
+        color: #fff;
+    }
+
+    #menu .main .submenu li {
+        background: #fefefe;
+    }
+
+    .fields,
+    .fields2 {
+        width: 252px;
+        float: left;
+    }
+
+    /*Home Page Feature*/
+
+    /*Map*/
+    .map {
+        height: 670px;
+        padding: 0;
+    }
+
+    .map .main {
+        padding: 0 20px;
+    }
+
+    .map .locateus {
+        float: right;
+        height: 518px;
+        margin-top: 77px;
+        width: 400px;
+    }
+
+    .map .cityname {
+        color: #fff;
+        /* font-family: "robotolight"; */
+        font-size: 40px;
+        margin: 0 auto;
+        position: relative;
+        text-align: center;
+        line-height: 37px;
+    }
+
+    .map .cityname::before {
+        width: 62px;
+    }
+
+    .map .cityname::after {
+        width: 62px;
+    }
+
+    .map .adcontain p {
+        max-height: 100px;
+        overflow: hidden;
+    }
+
+    .map .addressasset li {
+        margin-bottom: 5px;
+    }
+
+    .map .adcontain {
+        width: 88%;
+    }
+
+    /*gallery and testimonials*/
+    .titlecont.titleblock h2:after,
+    .titlecont.titleblock h2:before {
+        width: 70px;
+    }
+
+    .gallery li {
+        height: auto;
+        margin: -1px 2px 0 0;
+        max-height: auto;
+        width: 290px;
+    }
+
+    .gallery {
+        padding-top: 46px;
+    }
+
+    /*select a car section*/
+    #select_car .car360img {
+        display: inline-block;
+        width: 40%;
+        vertical-align: top;
+        padding-left: 30px;
+    }
+
+    #select_car .caroverinfo {
+        width: 59.5%;
+        position: relative;
+    }
+
+    .carmodel .caroverinfo:first-child {
+        width: 39%;
+    }
+
+    .carmodel .caroverinfo:last-child {
+        width: 60%;
+    }
+
+    .carmodel .caroverinfo .select-button {
+        margin-top: 94px;
+    }
+
+    /*New Car*/
+    .breadcump {
+        display: block;
+    }
+
+    .newcarwrap .cars ul {
+        width: 960px;
+    }
+
+    /*Accessoris*/
+    .accestable .select-wrapper {
+        width: 260px;
+        float: left;
+        margin: 0 10px 0 0
+    }
+
+    .accestable .selecttext {
+        text-align: left
+    }
+
+    .accessories button,
+    #accdetail .acccont .select-button {
+        float: left;
+    }
+
+    .accessories table .select-button {
+        margin-bottom: 0
+    }
+
+    #accdetail {
+        margin: 0;
+    }
+
+    /*Submit Resume*/
+    #submitresume .fields {
+        width: 312px;
+        margin-right: 7px;
+        margin-bottom: 10px
+    }
+
+    #submitresume input[type="text"],
+    #submitresume input[type="email"],
+    #submitresume input[type="tel"] {
+        width: 312px
+    }
+
+    #submitresume .fields2 {
+        width: 632px;
+        margin-right: 7px
+    }
+
+    #submitresume .fields2 textarea {
+        width: 632px;
+    }
+
+    #submitresume .fields5 {
+        width: 310px;
+    }
+
+    #submitresume .fields4 {
+        text-align: center
+    }
+
+    /*sitemap*/
+    .sitemap .column {
+        margin: 0 auto;
+        float: left;
+    }
+
+    /*--- Sell Car ---*/
+    #sell_car {
+        text-align: left;
+        padding: 0 9px;
+    }
+
+    #sell_car .select-button {
+        float: left;
+    }
+
+    /*Book*/
+    .bookservice .contactdetail {
+        width: 100%
+    }
+
+    .bookservice .selectsec .fields .select-wrapper {
+        width: 100%
+    }
+
+    .bookservice .contactdetail textarea {
+        width: 86.5%;
+        float: left;
+        margin-right: 39px;
+        height: 100px
+    }
+
+    .bookservice .select-button {
+        display: block
+    }
+
+    /*online service*/
+    #online .online_area {
+        width: 100%;
+    }
+
+    #online .online_radio {
+        width: 64%;
+    }
+
+    #online .online_input {
+        width: 46%;
+    }
+
+    #online .online_radio.textareaonline {
+        width: 94%;
+    }
+
+    /*------outlet page--------*/
+    .outlet .shoppanel {
+        padding: 0 20px;
+    }
+
+    .outlet {
+        margin-top: 20px;
+    }
+
+    .outlet .inputout {
+        width: auto;
+    }
+
+    .outlet .outletmap {
+        height: 382px
+    }
+
+    .outlet .shoppanel .contactpanel .locatebtn {
+        position: absolute;
+    }
+
+    .outlet .shoplocation {
+        width: 260px;
+        float: right;
+        margin-top: 0;
+    }
+
+    .outlet .select-wrapper {
+        display: inline-block;
+        width: 265px;
+    }
+
+    .outlet .shoppanel .contactpanel li {
+        display: inline-block;
+        vertical-align: top
+    }
+
+    .outlet .select-button {
+        margin-right: 17px;
+        width: auto;
+        display: inline-block;
+    }
+
+    .outlet ul {
+        margin-top: 20px;
+    }
+
+    .outlet .topbtn {
+        float: right;
+    }
+
+    /*Offers*/
+    .tabbutton li {
+        margin: 0 10px
+    }
+
+    /*EventGallery*/
+    .eventwrap .gallery {
+        width: 944px
+    }
+
+    .eventwrap .gallery .gscr_lSNext,
+    .eventwrap .gallery .gscr_lSPrev {
+        background-color: rgba(0, 0, 0, 0.6);
+        cursor: pointer;
+        height: 50px;
+        position: absolute;
+        right: 2px;
+        text-indent: 10000px;
+        transition: all 0.4s ease-in-out 0s;
+        -moz-transition: all 0.4s ease-in-out 0s;
+        -webkit-transition: all 0.4s ease-in-out 0s;
+        width: 50px;
+        top: 50%;
+        margin-top: -25px;
+        z-index: 1;
+        opacity: 0.7
+    }
+
+    .eventwrap .gallery .gscr_lSNext:hover,
+    .eventwrap .gallery .gscr_lSPrev:hover {
+        opacity: 1
+    }
+
+    .eventwrap .gallery .gscr_lSPrev {
+        left: 2px;
+        right: inherit
+    }
+
+    .eventwrap .gscr_lSPrev .sprite {
+        background-position: -316px -120px;
+        bottom: 0;
+        height: 21px;
+        left: 0;
+        margin: auto;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 12px;
+    }
+
+    .eventwrap .gscr_lSNext .sprite {
+        background-position: -334px -120px;
+        bottom: 0;
+        height: 21px;
+        left: 0;
+        margin: auto;
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 12px;
+    }
+
+    .hitem:hover .text {
+        opacity: 0.9;
+        border-radius: 0;
+        height: 100%;
+        width: 100%;
+        background-size: auto;
+    }
+
+    /*Compare*/
+    .compare-desktopview {
+        display: block;
+        padding: 0 7px;
+    }
+
+    .compare-mobview {
+        display: none;
+    }
+
+    /* Finance CSS */
+    .carfinence {
+        padding: 50px 5px 20px;
+    }
+
+    .carfinence .left {
+        margin-right: 4px;
+        width: 512px;
+        float: left;
+    }
+
+    .carfinence .right {
+        margin-left: 20px;
+        margin-top: 0;
+        padding: 0;
+        width: 426px;
+        float: right;
+    }
+
+    .carfinence .financeinquiry .financecontain {
+        margin: 0 15px 0 25px;
+        width: 170px;
+    }
+
+    .carfinence .tabresult {
+        min-height: 600px;
+    }
+
+    /*Model page tabbing start*/
+    .cd-tabs-navigation a {
+        top: 1px;
+        font-size: 14px;
+        height: 50px;
+        line-height: 50px;
+        padding: 0;
+        text-align: center;
+        width: 160px;
+    }
+
+    .cd-tabs-navigation::after {
+        display: none
+    }
+
+    .cd-tabs-navigation {
+        float: left;
+        padding: 0 22px;
+        width: auto;
+        border-bottom: 1px solid #e3e3e3;
+    }
+
+    /*model page overview tab*/
+    .carmodel table .fueltype {
+        display: block;
+        max-width: 130px;
+    }
+
+    .carmodel table button {
+        font-size: 14px;
+        width: 150px;
+    }
+
+    /*Model Price*/
+    .carmodel .modelprice .caroverinfo {
+        width: 520px;
+        margin-left: 42px;
+    }
+
+    .carmodel .modelprice .pricedata {
+        display: inline-block;
+        margin-left: 80px;
+        width: 250px;
+        margin-top: 24px;
+    }
+
+    .carmodel .pricedata .select-button {
+        margin-top: 20px;
+    }
+
+    .carmodel .modelprice .caroverinfo>img {
+        padding-top: 15px;
+    }
+
+    /*Model Mileage*/
+    .carmodel .mileagedata .caroverinfo {
+        width: 520px;
+        margin-left: 42px;
+    }
+
+    .carmodel .mileagedata .mileagedetail {
+        display: inline-block;
+        margin-left: 0;
+        margin-top: 55px;
+        width: 390px;
+    }
+
+    .carmodel .mileagedata .carinfo li {
+        width: 193px;
+    }
+
+    .carmodel .mileagedata .caroverinfo>img {
+        padding-top: 15px;
+    }
+
+    /*Feature Button*/
+    .stickyshortcut .feature {
+        width: 520px;
+    }
+
+    .stickyshortcut div {
+        font-size: 14px;
+    }
+
+    .stickyshortcut .feature li {
+        padding-top: 20px;
+        line-height: 1;
+    }
+
+    /*Soecs*/
+    .specsfront,
+    .specsside {
+        width: 49%;
+    }
+
+    /*variant page*/
+    .varientleft,
+    .variantright {
+        margin: 0 7px;
+    }
+
+    .variantpage .cd-tabs-navigation {
+        width: auto;
+    }
+
+    .variantpage .cd-tabs-navigation a {
+        width: 136px;
+    }
+
+    .detailfeature {
+        width: 492px;
+        float: left;
+        padding: 23px 5px 10px;
+    }
+
+    .detailfeature li {
+        padding-right: 7px;
+        margin-right: 7px;
+    }
+
+    .vehiclein {
+        float: left;
+        width: 100%;
+        text-align: left;
+    }
+
+    .safetyfea .title {
+        width: 100%;
+        float: left;
+    }
+
+    .safetyfea .fealist {
+        width: 100%;
+        float: left;
+    }
+
+    .safetyfea {
+        display: inline-block;
+        width: 48%;
+        margin-right: 5px;
+    }
+
+    #googleMap,
+    object {
+        display: block
+    }
+
+    .modelpictures .tabbutton {
+        padding-top: 40px;
+    }
+
+    .modelpictures .tabbutton li.three60 {
+        display: inline-block
+    }
+
+    .carmodel .rwd-table td {
+        height: 39px
+    }
+
+    .careertable .rwd-table td div span {
+        display: inline-block;
+        margin: 10px 10px 0 0;
+    }
+
+    /*New Used Car*/
+
+    .usedsearchwrap li,
+    .usedsearchwrap li.onecolumn {
+        width: 185px;
+        margin-bottom: 0;
+    }
+
+    .usedsearchwrap ul {
+        width: 100%;
+    }
+
+    .usedsearchwrap li.last {
+        width: 155px;
+    }
+
+    .usedsearchwrap {
+        max-width: none;
+    }
+
+    .preownbtn {
+        display: none;
+    }
+
+    .usedsearchwrap ul {
+        display: block !important;
+        margin-top: 0;
+    }
+
+    .usedsearchwrap .sort {
+        position: absolute;
+        right: 20px;
+        top: 190px;
+    }
+
+    .nulistingbtn {
+        float: right;
+        margin-top: 60px;
+        width: auto;
+    }
+
+    .nulistingbtn .nuviewlink {
+        float: right;
+        margin-left: 10px;
+    }
+
+    .nulistingbtn .nubtn {
+        margin-right: 20px;
+        margin-left: 0;
+    }
+
+    /*New CSS---used cars landing page--------*/
+    .usedcar {
+        display: block;
+    }
+
+    .usedcar .selectboxes {
+        display: block;
+        margin: 0px auto;
+        width: 600px;
+        margin-top: 50px;
+        padding-bottom: 40px
+    }
+
+    .connect,
+    .outletshome .address,
+    .quicklinks {
+        display: inline-block !important;
+    }
+
+    .outletshome .address {
+        vertical-align: top;
+    }
+
+    .usedcar .search_cars {
+        position: relative;
+    }
+
+    .usedcar .submit_used_cars {
+        margin-top: 25px;
+    }
+
+    .to_be_toggled {
+        display: inline-block;
+        margin: 50px 0 0 0;
+    }
+
+    /*float: right;width: auto !important;*/
+    .usedcar .select-wrapper select {
+        margin: 0;
+    }
+
+    .usedcar .advance_search_button {
+        position: absolute;
+        right: 49px;
+        top: 8px;
+    }
+
+    /*float: right; */
+    .usedcar .advance_search_button>span {
+        font-size: 15px;
+        width: 150px;
+    }
+
+    .newcars.used_cars_result {
+        width: 95.8%;
+    }
+
+    .usedcar .carblock .marginr0 {
+        margin-right: 0 !important;
+    }
+
+    /*Used Car Detail */
+    .usedcardetail .left {
+        float: left;
+        width: 540px;
+    }
+
+    .usedcardetail .carpanel .title {
+        font-size: 40px;
+    }
+
+    .usedcardetail .right {
+        float: right;
+        margin-top: 0;
+        padding: 0;
+        width: 450px;
+        margin-left: 10px;
+    }
+
+    .inform li span:last-child {
+        width: auto;
+        float: none;
+    }
+
+    .usedcardetail .right .detailprice {
+        float: left;
+        margin-right: 20px;
+    }
+
+    .detailfeature {
+        width: 492px;
+        float: left;
+        padding: 23px 5px 10px;
+    }
+
+    .detailfeature li {
+        padding-right: 7px;
+        margin-right: 7px;
+    }
+
+    .usedcardetail #picturetab,
+    .usedcardetail #sync1,
+    .usedcardetail #sync3,
+    .usedcardetail .colorsliderbntmain {
+        width: 500px;
+    }
+
+    .usedcardetail .tabdetail .owl-buttons {
+        top: 180px;
+        z-index: 1;
+    }
+
+    .newusedsprite {
+        position: absolute;
+        left: -29px;
+    }
+
+    .inform ul {
+        margin-left: 28px;
+    }
+
+    .usedcardetail h1 {
+        margin-bottom: 30px;
+        font-size: 34px;
+    }
+
+    .usedcardetail .gscr_lSAction {
+        top: 45%;
+    }
+
+    .usedcardetail .right .detailprice {
+        font-size: 35px;
+    }
+
+    .inform li i {
+        display: inline-block;
+    }
+
+    .usedcardetail .requbtn {
+        width: 200px;
+    }
+
+    .inform li:nth-child(odd),
+    .inform li {
+        width: 50%;
+    }
+
+    .inform li span:last-child {
+        display: inline-block;
+    }
+
+    .contlisting {
+        width: 33%;
+        padding: 15px 0;
+    }
+
+    .contlisting div {
+        width: auto;
+    }
+
+    .contlisting div:last-child {
+        margin-left: 10px;
+    }
+
+    .numoredetail .fealist {
+        width: 24%;
+        margin-bottom: 15px;
+    }
+
+    .ucd-media li {
+        width: 235px;
+    }
+
+    .ucd-media li:nth-of-type(2n) {
+        margin-right: 10px;
+    }
+
+    .ucd-media li:nth-of-type(4n) {
+        margin-right: 0px;
+    }
+
+    .ucd-media .imgsec>img {
+        max-width: 100%;
+    }
+
+    .ucd-media {
+        padding-top: 10px;
+    }
+
+    .usedcardetail .nusingleimg {
+        max-height: 297px;
+    }
+
+    .ucd-media li a.imgsec {
+        height: 176px;
+    }
+
+    /*used car detail*/
+    .nused-noimg {
+        max-width: 75%;
+    }
+
+    /*New Book Service Page*/
+    .nb-desktopview {
+        display: block;
+    }
+
+    .nb-mobiview {
+        display: none;
+    }
+
+    /*    .newbookser h1{ color: #1a1a1a; font-size: 27px; line-height: 1; font-family: "robotoregular"; text-align: left;}*/
+    .nbookser-wrap {
+        margin-top: 40px;
+        padding: 30px 23px;
+        border: 1px solid #dedede;
+        width: 100%;
+        max-width: 1006px;
+        box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+        -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.15);
+        display: block;
+    }
+
+    .nformwrap {
+        border-bottom: solid 1px #d4d4d4;
+        padding-bottom: 20px;
+        margin-bottom: 50px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .nformwrap .title {
+        display: block;
+    }
+
+    .nformwrap .drop {
+        width: 300px;
+        margin-right: 29px;
+        margin-bottom: 30px;
+    }
+
+    .nformwrap:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .nformwrap .nbook-btn {
+        height: 53px;
+        line-height: 53px;
+        margin-top: 29px;
+        width: 312px;
+        display: inline-block;
+    }
+
+    .nformwrap .marksfields {
+        text-align: left;
+    }
+
+    .newbookser {
+        padding-top: 40px;
+    }
+
+    .nbook-selectdate .field-bookservice-service_date {
+        width: 33%;
+        float: left;
+        margin-top: 0;
+    }
+
+    .nbook-selectdate .service_timeslots {
+        float: left;
+        width: 60%;
+        margin-left: 3px;
+    }
+
+    /*New Outlet*/
+    .newoutlet-desktopview {
+        display: block;
+    }
+
+    .newoutlet-mobiview {
+        display: none;
+    }
+
+    .nout-viewbtn.nout-showreview {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    /*New Contact page*/
+    .newcontact .nco-tabresult label {
+        text-align: left;
+    }
+
+    .newcontact h2 {
+        color: #1a1a1a;
+        font-size: 23px;
+        padding: 40px 0;
+        text-align: left;
+    }
+
+    .newcontactwrap .ncont-left {
+        padding: 26px 14px 0 30px;
+        width: 690px;
+        display: table-cell;
+    }
+
+    .newcontactwrap .ncont-right {
+        display: table-cell;
+        width: 275px;
+        margin-top: 0;
+    }
+
+    .newarrival .morecategory {
+        overflow: hidden;
+    }
+
+    .newarrival .morecategory li {
+        border: 1px solid rgba(59, 59, 59, 0.5);
+        width: 148px;
+        height: 48px;
+        border-radius: 3px 3px 0 0;
+        border-bottom: none;
+        padding: 0;
+        text-align: center;
+        line-height: 48px;
+        margin-right: 10px;
+        margin-top: -1px;
+        background: #fff;
+    }
+
+    .newarrival .morecategory li:first-child {
+        margin-left: 14px;
+    }
+
+    .newarrival .morecategory li:last-child {
+        margin-right: 0px;
+    }
+
+    .newarrival .morecategory li.gsc-ta-active {
+        border-color: #3b3b3b;
+        color: #fff;
+    }
+
+    .ncont-left .gsc-ta-overHide,
+    .ncont-left .gsc_ta_scroll {
+        height: 52px !important;
+    }
+
+    .ncont-left .gsc-ta-contentWrap {
+        border-top: solid 1px #3b3b3b;
+        margin-top: -1px;
+    }
+
+    .newcontactwrap {
+        width: 986px;
+        display: table;
+    }
+
+    .newcontactwrap .nformwrap .drop {
+        width: 320px;
+        margin-right: 20px;
+    }
+
+    .newcontactwrap .nformwrap .drop:nth-child(even) {
+        margin-right: 0;
+    }
+
+    .newcontactwrap .nformwrap .nbook-btn {
+        width: 157px;
+        float: left;
+        height: 50px;
+        line-height: 50px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .ncon-calldealer {
+        display: none !important;
+    }
+
+    .nco-sharelist {
+        display: inline-block;
+        text-align: left;
+    }
+
+    .newcontactwrap .ncont-right {
+        padding: 30px 17px 0 30px;
+    }
+
+    .nco-sublinks {
+        border-top: 1px solid #d4d4d4;
+        padding-top: 30px;
+        width: 215px;
+    }
+
+    .newcontactwrap .drop .nconstar {
+        margin-top: 20px;
+    }
+
+    .nco-tabresult {
+        padding-top: 38px;
+    }
+
+    .ncon-tab4res {
+        margin-bottom: 30px;
+    }
+
+    .newarrival .morecategory ul {
+        margin-top: 3px;
+    }
+
+    /*New Special Offer*/
+    .specoffer h3.titlegap {
+        padding-top: 15px;
+    }
+
+    .newofferbtn-wrap {
+        display: none !important;
+    }
+
+    .specoffer {
+        background: #fff;
+        margin-bottom: 70px;
+        margin-top: 54px;
+        padding: 0 10px;
+    }
+
+    #soffer_tab li a {
+        font-size: 18px;
+        width: 185px;
+    }
+
+    .spoffer-result {
+        padding-top: 0;
+    }
+
+    .spoffer-result a.soffer-selectbtn {
+        display: none;
+    }
+
+    .specoffer-drop {
+        border: medium none;
+        display: inline-block;
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .specoffer .drop {
+        width: 30%;
+        margin-right: 10px;
+    }
+
+    .spoffer-result4 .drop {
+        width: 23%;
+    }
+
+    .spoffer_listing {
+        margin-bottom: 20px;
+        margin-top: 35px;
+    }
+
+    .spofferlist {
+        padding: 15px 20px;
+        margin-bottom: 20px;
+    }
+
+    .specoffer .soffer_carblock {
+        width: 199px;
+        padding-bottom: 13px;
+        padding-top: 23px;
+    }
+
+    .specoffer .soffer_carblock img {
+        display: inline;
+        height: 122px;
+    }
+
+    .soffer_carblock h2 {
+        text-align: center;
+        margin-top: 16px;
+        font-size: 14px;
+    }
+
+    .soffernewcarmobi {
+        display: none;
+    }
+
+    .soffer_right {
+        width: 752px;
+        float: left;
+        margin-left: 11px;
+        margin-top: 0;
+        padding-top: 0;
+        border-top: none;
+    }
+
+    .soffer_top .soffernewcar {
+        display: block;
+        font-size: 18px;
+    }
+
+    .soffer_top h3 a {
+        display: inline-block;
+        font-size: 18px;
+        overflow: hidden !important;
+        padding-left: 22px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        width: 490px;
+    }
+
+    .soffsaving {
+        color: #535353;
+        font-family: "robotomedium";
+        font-size: 15px;
+        padding-left: 22px;
+        font-weight: normal;
+        padding-top: 5px;
+    }
+
+    .spofferlist .soffer-left {
+        border-right: 1px solid #dedede;
+        height: 66px;
+        width: 530px;
+    }
+
+    .soffer_bot .soffer-left {
+        padding-left: 22px;
+    }
+
+    .soffervalid {
+        display: block;
+    }
+
+    a.offer-viewbtn {
+        margin-top: 15px;
+    }
+
+    .soffer-des {
+        margin-top: 14px;
+        padding-top: 26px;
+    }
+
+    .soffer-des .soff-close {
+        width: 72px;
+        font-size: 15px;
+    }
+
+    .soffer-des .sdes-title {
+        font-size: 22px;
+        color: #535353;
+        font-family: "robotoregular"
+    }
+
+    .soffer-des .sdes-para {
+        color: #151515;
+        font-size: 14px;
+        line-height: 1.81;
+        margin-top: 7px;
+    }
+
+    .soffer-des .sdes-values {
+        display: inline-block;
+        margin-top: 23px;
+        width: 100%;
+    }
+
+    .sdes-values li {
+        border-bottom: none;
+        border-left: 1px solid #d1d1d1;
+        float: left;
+        padding: 14px 70px 18px;
+        width: auto;
+    }
+
+    .sdes-values li:first-child {
+        padding-left: 0;
+        border-left: none;
+    }
+
+    .soffer-des .valuestitle {
+        color: #151515;
+        font-size: 15px;
+        line-height: 1;
+        margin-bottom: 8px;
+        width: 100%;
+        float: none;
+        width: auto;
+        display: block;
+    }
+
+    .soffer-des .valueselemnt {
+        color: #000;
+        width: 100%;
+        text-align: left;
+        font-size: 22px;
+        line-height: 1;
+        float: none;
+        width: auto;
+        display: block;
+    }
+
+    .mobi-soffervalid {
+        display: none;
+    }
+
+    .soffer-des .offer-viewbtn {
+        float: left;
+    }
+
+    .corofferresult {
+        margin-top: 50px;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+        padding: 0;
+    }
+
+    .co-search {
+        margin-bottom: 47px;
+    }
+
+    .co-search input {
+        height: 55px;
+        padding-bottom: 20px;
+        font-size: 18px;
+        color: rgba(36, 39, 44, 0.4);
+    }
+
+    .co-search a {
+        width: auto;
+        right: 15px;
+        top: 10px;
+    }
+
+    .co-search .co-showresult {
+        display: none;
+    }
+
+    .co-or,
+    .co-browsewrap .co-brotitle {
+        display: block;
+    }
+
+    .co-browsewrap {
+        margin-top: 45px;
+    }
+
+    .cobrowsenav {
+        display: block;
+    }
+
+    .co-listingwrap {
+        margin-top: 36px;
+    }
+
+    .co-listingwrap .browseleft {
+        display: block;
+        width: 480px;
+    }
+
+    .co-listingwrap .browseright {
+        width: 480px;
+        height: 392px;
+    }
+
+    .co-righttitle>span {
+        display: none;
+    }
+
+    .co-righttitle {
+        position: static;
+        color: #636161;
+        font-size: 25px;
+        line-height: 1;
+        margin-bottom: 12px;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+
+    .browseright .soffer-des {
+        display: none !important;
+    }
+
+    .corofferresult .co-browsewrap .soffer-des {
+        display: block;
+        border-top: none;
+    }
+
+    .cobrowselisting li {
+        padding: 25px 0 20px 37px;
+        font-size: 15px;
+        color: #636161;
+    }
+
+    .cobrobtnwrap {
+        background-color: #fcfcfc;
+        margin-top: 32px;
+        padding: 16px 0 16px 30px;
+    }
+
+    .cobrobtnwrap a {
+        color: #636363;
+        background: #fff;
+        margin-top: 0;
+    }
+
+    .browseleft .cobrowselisting>ul {
+        height: 292px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    .browseright .cobrowselisting>ul {
+        height: 230px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
+
+@media screen and (min-width:1180px) {
+
+    /*---Sell Car--*/
+    #sell_car {
+        padding: 0;
+    }
+
+    #sell_car .car_details .sell_input {
+        display: inline-block;
+        float: left;
+        margin: 0 20px 25px 0;
+        width: 265px;
+    }
+
+    #sell_car .left_select {
+        margin-right: 65px;
+    }
+
+    #sell_car .sell_input p {
+        font-size: 14px;
+        padding: 5px 0 0;
+    }
+
+    #sell_car .additional_features>label {
+        margin: 0 17px 28px 0;
+        max-width: 365px;
+    }
+
+    #sell_car .sell_input {
+        display: inline-block;
+        margin: 0 17px 25px 0;
+        width: 265px;
+    }
+
+    /*---outlet page-----*/
+    .outlet .shoplocation {
+        width: 350px;
+    }
+
+    .outlet .shoppanel {
+        padding: 0;
+    }
+
+    /*model page tabbing*/
+    .cd-tabs-navigation a {
+        width: 187px;
+    }
+
+    /*variant page*/
+
+    .variantpage .cd-tabs-navigation a {
+        width: 161px;
+    }
+
+    .varientleft,
+    .variantright {
+        margin: 0 10px;
+    }
+}
+
+@media screen and (min-width:1260px) {
+
+    /*New Price Page*/
+    .NewPricepgwrap .innermain {
+        max-width: 1200px;
+        width: 100%;
+    }
+
+    .newpriceleft {
+        width: 410px;
+    }
+
+    /*Near Cities */
+    .nearcity_citylist {
+        margin-right: 20px;
+        padding-right: 0;
+        width: 185px;
+        vertical-align: top;
+    }
+
+    .nearcity_allcity {
+        width: 1030px;
+        margin-bottom: 0;
+    }
+
+    .nearcity_locateout .nearcity_citylist {
+        margin-bottom: 20px;
+    }
+
+    .nearcity_citylist:after {
+        right: 10px;
+    }
+
+    .nearcity_cityname a {
+        display: inline-block;
+        line-height: 1.2;
+        overflow-wrap: break-word;
+        width: 93%;
+        font-size: 15px;
+    }
+
+    /*New Footer*/
+    .newftr .newftrlinkdesktop ul:first-child {
+        margin-left: 0;
+    }
+
+    .newftr .newftrlinkdesktop ul {
+        width: 250px;
+    }
+
+    /*New Used Car*/
+    .usedsearchwrap li,
+    .usedsearchwrap li.onecolumn {
+        margin-right: 3px;
+        width: 138px;
+    }
+
+    .usedsearchwrap li:last-child {
+        width: auto;
+        margin-right: 0;
+    }
+
+    .nucarblock {
+        width: 21%;
+        height: 185px;
+    }
+
+    .nudes {
+        margin-left: 30px;
+        width: 660px;
+    }
+
+    .nufeature {
+        width: 410px;
+    }
+
+    .usedsearchwrap .sort {
+        position: absolute;
+        right: 4px;
+        top: 139px;
+    }
+
+    /*Video Banner*/
+    .homeslidecontain {
+        top: 8%;
+    }
+
+    .slidevideo {
+        height: 345px;
+        width: 740px;
+    }
+
+    .customvid {
+        width: 610px;
+    }
+
+    /*Popup*/
+    #gsp_popup,
+    #gspp_Overlay,
+    #gspp_Wrapper {
+        position: fixed !important;
+    }
+
+    #gspp_Wrapper {
+        left: 50% !important;
+        margin-left: -300px !important;
+        top: 0 !important;
+    }
+
+    #gsp_popup {
+        top: 9% !important;
+    }
+
+    /*header*/
+    header .moredrop {
+        left: -98px;
+    }
+
+    .more .submenu-onclick {
+        right: -58% !important;
+    }
+
+    /*select a model section*/
+    #select_car {
+        padding: 46px 0px 60px;
+    }
+
+    #select_car .carinfo li {
+        width: 177px;
+    }
+
+    #select_car .gscr_outerwrapper {
+        left: -3px;
+    }
+
+    #select_car .gscr_lSPrev {
+        left: 3px;
+    }
+
+    #select_car .gscr_lSNext {
+        right: -2px;
+    }
+
+    /*gallery and testimonials*/
+    .gallery li {
+        margin: -1px 0px 0 0;
+    }
+
+    /*New Car*/
+    .newcarwrap .cars ul {
+        width: 100%;
+    }
+
+    .newcarwrap .cars li {
+        margin: 10px 15px 26px 0;
+    }
+
+    /*Accessoris*/
+    .accestable .select-wrapper {
+        width: 310px;
+    }
+
+    .accessories table .select-button {
+        float: right !important;
+    }
+
+    /*Submit Resume*/
+    #submitresume .fields {
+        margin-right: 28px;
+    }
+
+    #submitresume .fields2 {
+        width: 653px;
+        margin-right: 27px
+    }
+
+    #submitresume .fields2 textarea {
+        width: 653px;
+    }
+
+    #submitresume .fields5 {
+        width: 440px;
+    }
+
+    /*Book*/
+    .txt_star sup {
+        color: #000;
+    }
+
+    .bookservice .txt_star {
+        font-size: 12px;
+        color: #1c1c1c;
+        line-height: 14px;
+        margin: 10px 0px 0px !important;
+        /* font-family: "robotoregular"; */
+        text-align: left !important;
+        display: block;
+    }
+
+    .bookservice .titlemark {
+        margin: 6px 0px 10px;
+        width: 40px;
+        float: left;
+    }
+
+    .bookservice .selectsec {
+        width: 100%;
+        margin: 5px 0px 0px;
+    }
+
+    .bookservice form {
+        width: 100%;
+        float: left;
+    }
+
+    .bookservice .custom-select {
+        width: 233px !important;
+        float: left;
+    }
+
+    .bookservice .textsec {
+        margin: 23px 0px 0px;
+    }
+
+    .bookservice .textsec .fields input,
+    .bookservice .textsec2 .fields input {
+        float: left;
+    }
+
+    .bookservice .textsec2 {
+        width: 80%;
+        margin: 35px 0px 0px;
+        float: left;
+    }
+
+    .bookservice .textsec2 .fields {
+        width: 233px;
+        margin-right: 40px;
+    }
+
+    .bookservice .appointmentsec .fields2 {
+        width: 100%;
+        float: left;
+        margin: 0;
+    }
+
+    .bookservice .contactdetail textarea {
+        width: 799px;
+    }
+
+    /*-----Online Services -------*/
+    #online {
+        padding: 40px 0 0 0;
+    }
+
+    #online .purpose,
+    #online .personal,
+    #online .contact {
+        width: 48%;
+    }
+
+    #online .online_radio {
+        width: 555px;
+        box-sizing: border-box;
+        margin-bottom: 58px;
+    }
+
+    #online .online_area {
+        width: 100%;
+    }
+
+    #online label {
+        margin: 0 5px;
+    }
+
+    #online .online_input {
+        width: 238px;
+    }
+
+    #online .other {
+        font-size: 14px !important;
+        margin: 27px 0 0 10px !important;
+    }
+
+    #online .online_radio .remark {
+        height: 164px;
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    #online .floatright {
+        padding-left: 35px;
+    }
+
+    .online_radio.mode_input label[for="others"] {
+        margin-top: 30px !important;
+    }
+
+    #online .online_radio.textareaonline {
+        width: 100%;
+    }
+
+    /*Compare*/
+    .compare-desktopview {
+        padding: 0;
+    }
+
+    .compare-three {
+        width: 905px;
+    }
+
+    .compare-three .col-1 {
+        margin-left: 21px;
+        width: 280px;
+    }
+
+    .comwrap .compareselect {
+        width: 238px;
+    }
+
+    .comparewrap .compcontent {
+        width: 1180px !important;
+    }
+
+    .compcontent li .compareleft {
+        width: 293px;
+    }
+
+    .compcontent li .compareright {
+        width: 885px;
+    }
+
+    .compcontent li .compareright div {
+        width: 290px;
+    }
+
+    .compare.container {
+        width: 1124px;
+    }
+
+    /* Finance CSS */
+    .carfinence {
+        padding: 7px 0px 20px;
+        margin: 0px auto;
+        float: none;
+        display: inline-block;
+    }
+
+    .carfinence .left {
+        width: 537px;
+        margin-right: 5px;
+    }
+
+    .carfinence .right {
+        width: 618px;
+    }
+
+    .carfinence .left article {
+        padding-right: 48px;
+    }
+
+    .carfinence .contactinformtwo {
+        margin-top: 19px;
+    }
+
+    .carfinence .financeinquiry .financecontain {
+        margin: 0 40px 0 23px;
+        width: 229px;
+    }
+
+    .carfinence .financeinquiry .phimg {
+        padding-left: 12px;
+        padding-top: 20px;
+    }
+
+    .carfinence .left .financeinquiry {
+        position: relative;
+        border-right: none;
+    }
+
+    .carfinence .tabresult {
+        padding: 30px 20px 15px;
+        height: 705px;
+    }
+
+    .carfinence .tabresult form li {
+        float: left;
+        margin: 0 82px 10px 0;
+        width: 255px;
+        height: 50px;
+    }
+
+    .carfinence .tabresult form li.comments {
+        height: auto;
+        margin-right: 0;
+        width: 530px;
+    }
+
+    .carfinence .tabresult form li.getyourcarbtn {
+        width: 100%;
+        margin-right: 0;
+        height: auto;
+    }
+
+    .carfinence .calcuresult .calleft {
+        margin-right: 40px;
+        width: 305px;
+    }
+
+    .contactinform {
+        margin-bottom: 20px;
+    }
+
+    .carfinence .doctabresult {
+        padding: 30px 10px 20px;
+    }
+
+    .carfinence .calcuresult {
+        top: 1px;
+    }
+
+    .carfinence .doctabresult li {
+        font-size: 14px;
+        margin-right: 20px;
+    }
+
+    .calcuresult button {
+        margin-top: -17px;
+    }
+
+    /*Model Price*/
+    .carmodel .modelprice .pricedata {
+        margin-left: 190px;
+    }
+
+    .tablebg {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .termscon {
+        padding-left: 0;
+    }
+
+    /*Model Mileage*/
+    .carmodel .mileagedata .mileagedetail {
+        margin-left: 94px;
+    }
+
+    /*New CSS------used cars landing page------------*/
+    .usedcar .advance_search_button {
+        right: 150px;
+    }
+
+    /*  width: 300px;*/
+    .usedcar .advance_search_button>span {
+        float: left;
+    }
+
+    .usedcar .selectboxes {
+        width: 100%;
+    }
+
+    .to_be_toggled {
+        width: 1200px;
+    }
+
+    .used_cars_result {
+        margin-top: -5px;
+        width: 94%;
+    }
+
+    .usedcar .carbox {
+        display: inline-block;
+        /*developer*/
+        margin: 0 30px 17px 0 !important;
+        min-height: 300px;
+        /*developer end*/
+        position: relative;
+    }
+
+    .usedcar .carbox>p.rate {
+        bottom: 0px;
+        clear: both;
+        /*developer*/
+        left: 0px;
+        /*developer end*/
+        position: absolute;
+    }
+
+    /*Used Car Detail*/
+
+    .usedcardetail .right {
+        margin-top: 0;
+        float: right;
+    }
+
+    .usedcardetail .right .detailprice {
+        margin-right: 54px;
+    }
+
+    .detailfeature {
+        width: 100%;
+    }
+
+    .detailfeature li {
+        margin-right: 11px;
+        padding-right: 15px;
+    }
+
+    .usedcardetail #picturetab,
+    .usedcardetail #sync1,
+    .usedcardetail #sync3,
+    .usedcardetail .colorsliderbntmain {
+        width: 640px;
+    }
+
+    .usedcardetail h1 {
+        padding-left: 0;
+    }
+
+    .numoredetail {
+        margin-top: 20px;
+    }
+
+    .numoredetail,
+    .nusedsimilarcar {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .usedcardetail .gscr_counter {
+        left: 0;
+    }
+
+    .usedcardetail {
+        padding-top: 40px;
+    }
+
+    .ucd-media li {
+        width: 270px;
+        margin-right: 29px;
+    }
+
+    .ucd-media li:nth-of-type(2n) {
+        margin-right: 29px;
+    }
+
+    .ucd-media li:nth-of-type(4n) {
+        margin-right: 0;
+    }
+
+    .usedcardetail .left {
+        width: 640px !important;
+    }
+
+    .usedcardetail #newusedslide {
+        height: 100% !important;
+        max-height: 360px !important;
+    }
+
+    .usedcardetail .gscr_carousel img {
+        max-height: 360px !important;
+        height: 100% !important;
+    }
+
+    .usedcardetail .nusingleimg {
+        max-height: 335px;
+    }
+
+    .ucd-media li a.imgsec {
+        height: 203px;
+    }
+
+    /*New Outlet Page*/
+    .ndetail-left {
+        width: 60%;
+    }
+
+    .daywise li {
+        margin-right: 6px;
+    }
+
+    /*New Outlet Page*/
+    .noutbrandname {
+        margin-left: 180px;
+    }
+
+    .nout-working .ntime {
+        max-width: 360px;
+    }
+
+    .newoutlist-left {
+        width: 80%;
+    }
+
+    /*New Contact Page*/
+    .newcontactwrap {
+        width: 1006px;
+    }
+
+    .newcontact .innermain {
+        padding: 0;
+        margin: 0px auto;
+    }
+
+    .newcontactwrap .ncont-left {
+        padding-right: 34px;
+    }
+
+    /*New Special Offer*/
+    .specoffer .innermain {
+        width: 1105px;
+    }
+
+    .specoffer .drop {
+        margin-right: 47px;
+        width: 335px;
+    }
+
+    .spoffer-result4 .drop {
+        margin-right: 25px;
+        width: 250px;
+    }
+
+    .soffer_right {
+        width: 852px;
+    }
+
+    .spofferlist .soffer-left {
+        width: 620px;
+    }
+
+    .sdes-values li {
+        padding: 14px 70px 18px;
+    }
+
+    .co-listingwrap .browseleft {
+        width: 535px;
+    }
+
+    .co-listingwrap .browseright {
+        width: 535px;
+    }
+
+    .soffer_top h3 a {
+        width: 580px;
+    }
+}
+
+@media screen and (min-width:1279px) {
+    #mainslider #toplsidermain .gscr_lSPager {
+        right: 240px
+    }
+
+    /*event gallery CSS*/
+    .gallery h2 {
+        font-size: 40px;
+    }
+
+    #testimonials .aboutus,
+    #testimonials .testimonial {
+        display: table-cell;
+        vertical-align: top;
+    }
+
+    #testimonials .testimonial .wrap {
+        float: left;
+        margin-left: 30px;
+        width: 510px;
+    }
+
+    #testimonials .aboutus .wrap {
+        float: right;
+        margin-right: 30px;
+        width: 510px;
+        position: relative;
+    }
+
+    #testimonials .aboutus .wrap.fullcont {
+        width: 100%;
+    }
+
+    #testimonials .aboutus h2,
+    #testimonials .testimonial h2 {
+        font-size: 40px;
+        padding-top: 15px;
+    }
+
+    #testimonials .testimonial.titleblock h2::before,
+    #testimonials .aboutus.titleblock h2::before,
+    #testimonials .testimonial.titleblock h2::after,
+    #testimonials .aboutus.titleblock h2::after {
+        width: 70px;
+    }
+
+    #testimonials .testimonial p,
+    #testimonials .aboutus p {
+        font-size: 16px;
+    }
+
+    /*Accessories*/
+    .accestable .select-wrapper {
+        margin-right: 22px
+    }
+}
+
+@media screen and (min-width:1300px) {
+    .ftr .right {
+        margin-right: 0;
+    }
+}
+
+@media screen and (min-width:1400px) {
+
+    /*Video Banner*/
+    .homeslidecontain {
+        top: 15%;
+    }
+}
+
+@media screen and (min-width:1530px) {
+
+    #mainslider .gscr_outerwrapper:after,
+    #mainslider .gscr_outerwrapper:before {
+        width: 200px;
+    }
+}
+
+@media screen and (max-width:1006px) {
+    .mobiactive .submenu {
+        display: none;
+    }
+}

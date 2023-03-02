@@ -1,0 +1,267 @@
+/*Layout Structure*/
+.sprite {
+  background: url(../image/sprite-blue.png) no-repeat;
+  line-height: 0px;
+  font-size: 1px;
+  display: inline-block;
+  *display: inline;
+  vertical-align: middle;
+  zoom: 1;
+}
+
+/*Color*/
+.menu_aberto>li:hover a.mainmenu,
+#select_car .car360img h3 a:hover,
+#menu .main .submenu li:hover a,
+#menu .main .submenu-onclick li:hover a,
+#menu .main li.active a.mainmenu,
+#page.error li a,
+.sitemap .sitemapheading a:hover,
+.outlet .topbtn:hover,
+.comwrap .comhead a:hover,
+.cd-tabs-navigation a.selected,
+.carmodel table .fueltype,
+.carmodel .rwd-table tr td[data-th="Ex-Showroom Price"],
+.usedcar .doctabs li a:hover,
+.usedcar .doctabs li a.active,
+.Phoneno li a:hover {
+  color: #1a5d99 !important;
+}
+
+.moredrop li a:hover,
+.newcarwrap .cars .carname a:hover,
+.newcarwrap .quickview a:hover,
+.contactdetail p a:hover,
+.termscon a:hover,
+.carmodel .rwd-table td:first-child a {
+  color: #004b8d;
+}
+
+/*background*/
+.phno,
+.feature li:hover,
+.select-button,
+.feature li.active,
+#select_car .gscr_lSPrev:hover,
+#select_car .gscr_lSNext:hover,
+header .headertop .toplink::before,
+#menu .main .menu_aberto:before,
+.accessories table .select-button:hover,
+.comparetab li a:hover,
+.comparetab li a.active,
+.tabbutton li:hover,
+.tabbutton li.active:hover,
+.tabbutton li.active,
+.carmodel table button:hover {
+  background: #1a5d99;
+}
+
+.feature {
+  background: #004b8d;
+}
+
+.featureclose,
+.select-button:hover {
+  background: #004078;
+}
+
+.top,
+.featureclose:hover,
+#testimonials .aboutus {
+  background-color: #1a5d99;
+}
+
+/*Border*/
+.feature li,
+#select_a_car .item.slick-center,
+#select_a_car .owl-next:hover,
+#select_a_car .owl-prev:hover,
+.select-button,
+.select-button:hover,
+input[type="text"]:hover,
+input[type="email"]:hover,
+input[type="tel"]:hover,
+.select-wrapper:hover,
+.select-wrapper:focus,
+.newcars .carbox:hover .carimgbox,
+textarea:hover,
+#sell_car #insurance input[type="radio"]:checked+label span,
+.popupwrap .inputvalue input[type="radio"]:checked+label span,
+#sell_car input[type="radio"]:checked+label span,
+#online input[type="radio"]:checked+label span,
+#sell_car .page .newcar li:hover,
+.page .searchused a.button:hover,
+.page .searchused a.button,
+#sell_car input[type="radio"]+label span,
+#online input[type="radio"]+label span,
+.inputvalue input[type="radio"]+label span {
+  border-color: #1a5d99;
+}
+
+.comparewrap h3.open {
+  border-bottom-color: #1a5d99;
+}
+
+.carfinence .doctabs li a.active,
+.usedcar .doctabs li a.active,
+#select_a_car .item.active {
+  border-top-color: #1a5d99;
+}
+
+a:hover,
+.map .viewall a,
+.newcarwrap .quickview a,
+#accdetail .outofstock,
+.contactdetail p a,
+.contactdetail p a,
+.popupwrap .pleasecon,
+.thankyou p a,
+.carfinence .doctabs li a:hover,
+.carfinence .doctabs li a.active,
+.carpanel li h2 a:hover,
+.termscon a,
+.moredetails2,
+.rwd-table a:hover {
+  color: #1a5d99;
+}
+
+.inputvalue input[type="radio"]:checked+label span,
+input[type="radio"]:checked+label span {
+  border: 8px double #1a5d99 !important;
+}
+
+#select_a_car .item.slick-center,
+#select_a_car .item.gscr_active {
+  border-color: #1a5d99 transparent transparent;
+}
+
+.tabbutton li:hover,
+.tabbutton li.active:hover,
+.tabbutton li.active,
+.carmodel table .fueltype {
+  border-color: #1a5d99
+}
+
+
+
+@media screen and (max-width:767px) {
+  /*header .headertop .toplink a:hover { background: #1a5d99; }*/
+}
+
+@media screen and (min-width:1007px) {
+
+  #menu .main .submenu::before,
+  .hitem:hover .text {
+    background-color: #1a5d99;
+  }
+
+  .newarrival .morecategory li.gsc-ta-active {
+    background-color: #1a5d99;
+  }
+}
+
+
+/*New Used Car-Used Car Detail-Outlet Page */
+.nubtn,
+.nulistingbtn .nubtn:hover,
+.newusedcartab li a,
+.newoutbtn,
+.numoredetail .rowtitle.active,
+.usedcardetail .gscr_lSPrev:hover,
+.usedcardetail .gscr_lSNext:hover,
+.nout-btn1:hover,
+.nout-btn2:hover,
+.mobi-outbtn,
+.nout-viewbtn,
+.nformwrap .nbook-btn,
+.nbook-pickupradio input[type="radio"]:checked+label span:after,
+.nco-sublinks li a:hover,
+.ncon-calldealer:hover,
+.ncon-calldealer:focus,
+.specoffer .offer-viewbtn:hover,
+.specoffer .offer-viewbtn.active,
+.soffer-des .offer-viewbtn,
+.spoffer-result a.soffer-selectbtn,
+.soffer-des .soff-close:hover,
+.specoffer .cobrobtnwrap a,
+.cobrowselisting input[type="radio"]:checked+label span:after,
+.nearcity_citieswrap .nearcity_morebtn {
+  background-color: #1a5d99;
+}
+
+.nucarname a,
+.nusedlisting:hover .nuprice,
+.nuprice:hover,
+.nuviewlink:hover,
+.nout-btn2,
+.nout-dealerdes .nout-type,
+.mobiout-view,
+.clicktoadd-review,
+.nout-right a,
+.nco-sublinks li a,
+.newarrival .morecategory li.gsc-ta-active,
+.soffer_top h3 a:hover,
+#soffer_tab li a.active,
+.nearcity_cityname a,
+.blog_readmore {
+  color: #004078;
+}
+
+.nubtn:hover,
+.nulistingbtn .nubtn,
+.newusedcartab li a.active,
+.newusedcartab li a:hover,
+.newoutbtn:hover,
+.nout-btn1,
+.mobi-outbtn:hover,
+.nout-viewbtn:hover,
+.nout-viewbtn:focus,
+.nformwrap .nbook-btn:hover,
+.soffer-des .offer-viewbtn:hover,
+.newoutr-title,
+.nearcity_citieswrap .nearcity_morebtn:hover {
+  background: #004078;
+}
+
+.ucd-media li:hover .imgsec,
+.nout-btn2,
+.nout-right a,
+.nco-sublinks li a {
+  border-color: #004078;
+}
+
+#soffer_tab li a.active,
+.co-search input:hover,
+.co-search input:focus {
+  border-bottom-color: #004078;
+}
+
+.nbook-pickupradio input[type="radio"]:checked+label span,
+.cobrowselisting input[type="radio"]:checked+label span {
+  border: 2px solid #004078 !important;
+}
+
+.nucarname a:hover,
+.nulistingbtn a,
+.nview a,
+.nlistwrap a,
+.changoutlet,
+.nusedsimilarcar .titlepanel a,
+.media-body a,
+.nusedtitle,
+.mobiout-view:hover,
+.clicktoadd-review:hover {
+  color: #1a5d99
+}
+
+.nucarname a:hover,
+.nusedlisting:hover .nucarname a,
+.nview a:hover,
+.nlistwrap a:hover,
+.changoutlet:hover,
+.nusedsimilarcar .titlepanel a:hover,
+.media-body a:hover,
+.ucd-media li:hover h2 a,
+.newolistr-column li a {
+  color: #004078;
+}
